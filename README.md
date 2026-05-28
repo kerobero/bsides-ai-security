@@ -10,6 +10,16 @@ Autor: Gustavo Nieves Arreaza
 
 ---
 
+## Requerimientos
+
+- Conocimientos básicos de AppSec o ciberseguridad ofensiva/defensiva
+- Familiaridad con APIs REST, JSON, HTTP
+- **Ideal (no obligatorio):** experiencia básica en Python o CLI
+- Laptop personal con Docker, Git y Ollama instalados
+- Tener descargado el modelo `gemma3`
+
+---
+
 ## Temario
 
 | # | Tema | Descripción |
