@@ -32,3 +32,13 @@ Autor: Gustavo Nieves Arreaza
 | 6 | **OWASP SAMM v2 para ciclos de desarrollo con IA** | Integración de seguridad en el SDLC con IA |
 | 7 | **Automatización con ATAS: respuesta, entrenamiento y detección** | Herramientas de detección y respuesta automatizada |
 | 8 | **Laboratorio final: ataque/defensa sobre arquitectura de IA simulada** | Ejercicio práctico de red team / blue team |
+
+---
+
+## Referencias
+
+- [OWASP LLM Top 10](https://genai.owasp.org/llm-top-10/)
+- [OWASP AI Testing Guide](https://owasp.org/www-project-ai-testing-guide/)
+- [OWASP SAMM](https://owasp.org/www-project-samm/)
+- [PASTA Threat Modeling](https://threat-modeling.com/pasta-threat-modeling/)
+- [MITRE ATLAS](https://attack.mitre.org/)
