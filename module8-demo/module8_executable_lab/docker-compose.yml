@@ -1,0 +1,8 @@
+version: "3.9"
+
+services:
+  module8-lab:
+    build: .
+    container_name: module8-lab
+    ports:
+      - "8000:8000"
