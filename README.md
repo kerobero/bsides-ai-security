@@ -40,5 +40,6 @@ Autor: Gustavo Nieves Arreaza
 - [OWASP LLM Top 10](https://genai.owasp.org/llm-top-10/)
 - [OWASP AI Testing Guide](https://owasp.org/www-project-ai-testing-guide/)
 - [OWASP SAMM](https://owasp.org/www-project-samm/)
+- [STRIDE](https://www.practical-devsecops.com/what-is-stride-threat-model/)
 - [PASTA Threat Modeling](https://threat-modeling.com/pasta-threat-modeling/)
 - [MITRE ATLAS](https://attack.mitre.org/)
